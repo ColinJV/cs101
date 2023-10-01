@@ -1,2 +1,2 @@
-# cs101
-CS 101 assignment
+Colin Van Dyke
+colin.vandyke@wsu.edu
